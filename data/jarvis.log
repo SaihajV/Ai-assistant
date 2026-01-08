@@ -1,0 +1,136 @@
+2026-01-09 00:50:55,279 - __main__ - INFO - ============================================================
+2026-01-09 00:50:55,279 - __main__ - INFO - JARVIS ASSISTANT STARTING
+2026-01-09 00:50:55,280 - __main__ - INFO - ============================================================
+2026-01-09 00:50:55,280 - __main__ - INFO - Initializing components...
+2026-01-09 00:50:55,280 - brain - INFO - Brain initialized with model: llama3
+2026-01-09 00:50:55,301 - listen - INFO - Listener initialized
+2026-01-09 00:50:55,301 - listen - INFO - Calibrating microphone for ambient noise...
+2026-01-09 00:50:57,803 - listen - INFO - Calibration complete. Energy threshold: 97
+2026-01-09 00:50:57,912 - comtypes.client._code_cache - INFO - Could not import comtypes.gen, trying to create it.
+2026-01-09 00:50:57,912 - comtypes.client._code_cache - INFO - Created comtypes.gen directory: 'C:\Users\saiha\AppData\Local\Programs\Python\Python313\Lib\site-packages\comtypes\gen'
+2026-01-09 00:50:57,912 - comtypes.client._code_cache - INFO - Writing __init__.py file: 'C:\Users\saiha\AppData\Local\Programs\Python\Python313\Lib\site-packages\comtypes\gen\__init__.py'
+2026-01-09 00:50:57,934 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\saiha\AppData\Local\Programs\Python\Python313\Lib\site-packages\comtypes\gen'
+2026-01-09 00:50:57,965 - comtypes.client._generate - INFO - Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: No module named 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4'
+2026-01-09 00:50:57,970 - comtypes.client._generate - INFO - # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+2026-01-09 00:50:58,054 - comtypes.client._generate - INFO - # Generating comtypes.gen.SpeechLib
+2026-01-09 00:50:58,061 - comtypes.client._generate - INFO - Could not import comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0: No module named 'comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0'
+2026-01-09 00:50:58,062 - comtypes.client._generate - INFO - # Generating comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0
+2026-01-09 00:50:58,070 - comtypes.client._generate - INFO - # Generating comtypes.gen.stdole
+2026-01-09 00:50:58,723 - speak - INFO - TTS engine initialized successfully
+2026-01-09 00:50:58,723 - speak - INFO - Speaker configured - Rate: 200, Volume: 1.00
+2026-01-09 00:50:58,725 - __main__ - INFO - ============================================================
+2026-01-09 00:50:58,725 - __main__ - INFO - JARVIS INITIALIZATION COMPLETE
+2026-01-09 00:50:58,725 - __main__ - INFO - ============================================================
+2026-01-09 00:50:58,726 - __main__ - INFO - Main loop started
+2026-01-09 00:53:17,942 - __main__ - INFO - Keyboard interrupt received
+2026-01-09 00:53:17,942 - __main__ - INFO - Initiating shutdown sequence...
+2026-01-09 00:53:17,945 - speak - ERROR - TTS error: run loop already started
+2026-01-09 00:53:17,945 - speak - INFO - Shutting down speaker
+2026-01-09 00:53:17,954 - speak - INFO - Speech stopped
+2026-01-09 00:53:17,955 - speak - INFO - Speech queue processor stopped
+2026-01-09 00:53:18,069 - speak - INFO - Speaker shutdown complete
+2026-01-09 00:53:18,070 - __main__ - INFO - Shutdown complete
+2026-01-09 00:53:24,755 - __main__ - INFO - ============================================================
+2026-01-09 00:53:24,756 - __main__ - INFO - JARVIS ASSISTANT STARTING
+2026-01-09 00:53:24,756 - __main__ - INFO - ============================================================
+2026-01-09 00:53:24,756 - __main__ - INFO - Initializing components...
+2026-01-09 00:53:24,756 - brain - INFO - Brain initialized with model: llama3
+2026-01-09 00:53:24,760 - listen - INFO - Listener initialized
+2026-01-09 00:53:24,760 - listen - INFO - Calibrating microphone for ambient noise...
+2026-01-09 00:53:26,590 - listen - INFO - Calibration complete. Energy threshold: 294
+2026-01-09 00:53:26,698 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\saiha\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-09 00:53:26,699 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\saiha\AppData\Local\Programs\Python\Python313\Lib\site-packages\comtypes\gen'
+2026-01-09 00:53:26,890 - speak - INFO - TTS engine initialized successfully
+2026-01-09 00:53:26,891 - speak - INFO - Speaker configured - Rate: 200, Volume: 1.00
+2026-01-09 00:53:26,891 - __main__ - INFO - ============================================================
+2026-01-09 00:53:26,891 - __main__ - INFO - JARVIS INITIALIZATION COMPLETE
+2026-01-09 00:53:26,891 - __main__ - INFO - ============================================================
+2026-01-09 00:53:26,893 - __main__ - INFO - Main loop started
+2026-01-09 00:55:07,015 - __main__ - INFO - Keyboard interrupt received
+2026-01-09 00:55:07,015 - __main__ - INFO - Initiating shutdown sequence...
+2026-01-09 00:55:07,017 - speak - ERROR - TTS error: run loop already started
+2026-01-09 00:55:07,018 - speak - INFO - Shutting down speaker
+2026-01-09 00:55:07,023 - speak - INFO - Speech stopped
+2026-01-09 00:55:07,023 - speak - INFO - Speech queue processor stopped
+2026-01-09 00:55:07,088 - speak - INFO - Speaker shutdown complete
+2026-01-09 00:55:07,088 - __main__ - INFO - Shutdown complete
+2026-01-09 01:02:55,671 - __main__ - INFO - ============================================================
+2026-01-09 01:02:55,672 - __main__ - INFO - JARVIS ASSISTANT STARTING
+2026-01-09 01:02:55,672 - __main__ - INFO - ============================================================
+2026-01-09 01:02:55,672 - __main__ - INFO - Initializing components...
+2026-01-09 01:02:55,672 - brain - INFO - Brain initialized with model: llama3
+2026-01-09 01:02:55,681 - listen - INFO - Listener initialized
+2026-01-09 01:02:55,681 - listen - INFO - Calibrating microphone for ambient noise...
+2026-01-09 01:02:57,668 - listen - INFO - Calibration complete. Energy threshold: 36
+2026-01-09 01:02:57,841 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\saiha\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-09 01:02:57,842 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\saiha\AppData\Local\Programs\Python\Python313\Lib\site-packages\comtypes\gen'
+2026-01-09 01:02:58,222 - speak - INFO - TTS engine initialized successfully
+2026-01-09 01:02:58,222 - speak - INFO - Speaker configured - Rate: 200, Volume: 1.00
+2026-01-09 01:02:58,224 - __main__ - INFO - ============================================================
+2026-01-09 01:02:58,224 - __main__ - INFO - JARVIS INITIALIZATION COMPLETE
+2026-01-09 01:02:58,224 - __main__ - INFO - ============================================================
+2026-01-09 01:03:30,682 - __main__ - INFO - ============================================================
+2026-01-09 01:03:30,682 - __main__ - INFO - JARVIS ASSISTANT STARTING
+2026-01-09 01:03:30,682 - __main__ - INFO - ============================================================
+2026-01-09 01:03:30,682 - __main__ - INFO - Initializing components...
+2026-01-09 01:03:30,682 - brain - INFO - Brain initialized with model: llama3
+2026-01-09 01:03:30,685 - listen - INFO - Listener initialized
+2026-01-09 01:03:30,685 - listen - INFO - Calibrating microphone for ambient noise...
+2026-01-09 01:03:32,627 - listen - INFO - Calibration complete. Energy threshold: 79
+2026-01-09 01:03:32,729 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\saiha\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-09 01:03:32,730 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\saiha\AppData\Local\Programs\Python\Python313\Lib\site-packages\comtypes\gen'
+2026-01-09 01:03:32,950 - speak - INFO - TTS engine initialized successfully
+2026-01-09 01:03:32,951 - speak - INFO - Speaker configured - Rate: 200, Volume: 1.00
+2026-01-09 01:03:32,952 - __main__ - INFO - ============================================================
+2026-01-09 01:03:32,952 - __main__ - INFO - JARVIS INITIALIZATION COMPLETE
+2026-01-09 01:03:32,952 - __main__ - INFO - ============================================================
+2026-01-09 01:03:32,953 - __main__ - INFO - Main loop started
+2026-01-09 01:04:23,849 - __main__ - INFO - ============================================================
+2026-01-09 01:04:23,849 - __main__ - INFO - JARVIS ASSISTANT STARTING
+2026-01-09 01:04:23,849 - __main__ - INFO - ============================================================
+2026-01-09 01:04:23,849 - __main__ - INFO - Initializing components...
+2026-01-09 01:04:23,849 - brain - INFO - Brain initialized with model: llama3
+2026-01-09 01:04:23,849 - __main__ - INFO - [OK] Brain (AI) initialized
+2026-01-09 01:04:23,850 - listen - INFO - Listener initialized
+2026-01-09 01:04:23,850 - listen - INFO - Calibrating microphone for ambient noise...
+2026-01-09 01:04:25,771 - listen - INFO - Calibration complete. Energy threshold: 46
+2026-01-09 01:04:25,771 - __main__ - INFO - [OK] Listener (Speech Recognition) initialized
+2026-01-09 01:04:25,857 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\saiha\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-09 01:04:25,857 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\saiha\AppData\Local\Programs\Python\Python313\Lib\site-packages\comtypes\gen'
+2026-01-09 01:04:26,050 - speak - INFO - TTS engine initialized successfully
+2026-01-09 01:04:26,051 - speak - INFO - Speaker configured - Rate: 200, Volume: 1.00
+2026-01-09 01:04:26,051 - __main__ - INFO - [OK] Speaker (Text-to-Speech) initialized
+2026-01-09 01:04:26,051 - __main__ - INFO - ============================================================
+2026-01-09 01:04:26,051 - __main__ - INFO - JARVIS INITIALIZATION COMPLETE
+2026-01-09 01:04:26,051 - __main__ - INFO - ============================================================
+2026-01-09 01:04:26,052 - __main__ - INFO - Main loop started
+2026-01-09 01:17:31,752 - __main__ - INFO - JARVIS ASSISTANT STARTING
+2026-01-09 01:17:31,753 - __main__ - INFO - Initializing components...
+2026-01-09 01:17:31,753 - brain - INFO - Brain initialized with model: llama3
+2026-01-09 01:17:31,753 - __main__ - INFO - [OK] Brain (AI) initialized
+2026-01-09 01:17:31,754 - listen - INFO - Listener initialized
+2026-01-09 01:17:31,754 - listen - INFO - Calibrating microphone for ambient noise...
+2026-01-09 01:17:33,645 - listen - INFO - Calibration complete. Energy threshold: 44
+2026-01-09 01:17:33,646 - __main__ - INFO - [OK] Listener (Speech Recognition) initialized
+2026-01-09 01:17:33,733 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\saiha\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-09 01:17:33,733 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\saiha\AppData\Local\Programs\Python\Python313\Lib\site-packages\comtypes\gen'
+2026-01-09 01:17:33,885 - speak - INFO - TTS engine initialized successfully
+2026-01-09 01:17:33,885 - speak - INFO - Speaker configured - Rate: 200, Volume: 1.00
+2026-01-09 01:17:33,885 - __main__ - INFO - [OK] Speaker (Text-to-Speech) initialized
+2026-01-09 01:17:33,886 - __main__ - INFO - JARVIS INITIALIZATION COMPLETE
+2026-01-09 01:17:33,886 - __main__ - INFO - Main loop started
+2026-01-09 01:19:36,319 - __main__ - INFO - JARVIS ASSISTANT STARTING
+2026-01-09 01:19:36,319 - __main__ - INFO - Initializing components...
+2026-01-09 01:19:36,319 - brain - INFO - Brain initialized with model: llama3
+2026-01-09 01:19:36,319 - __main__ - INFO - [OK] Brain (AI) initialized
+2026-01-09 01:19:36,319 - listen - INFO - Listener initialized
+2026-01-09 01:19:36,319 - listen - INFO - Calibrating microphone for ambient noise...
+2026-01-09 01:19:38,221 - listen - INFO - Calibration complete. Energy threshold: 39
+2026-01-09 01:19:38,221 - __main__ - INFO - [OK] Listener (Speech Recognition) initialized
+2026-01-09 01:19:38,337 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\saiha\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-09 01:19:38,338 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\saiha\AppData\Local\Programs\Python\Python313\Lib\site-packages\comtypes\gen'
+2026-01-09 01:19:38,511 - speak - INFO - TTS engine initialized successfully
+2026-01-09 01:19:38,511 - speak - INFO - Speaker configured - Rate: 200, Volume: 1.00
+2026-01-09 01:19:38,511 - __main__ - INFO - [OK] Speaker (Text-to-Speech) initialized
+2026-01-09 01:19:38,511 - __main__ - INFO - JARVIS INITIALIZATION COMPLETE
+2026-01-09 01:19:38,512 - __main__ - INFO - Main loop started
